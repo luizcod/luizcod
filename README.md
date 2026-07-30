@@ -27,7 +27,7 @@
 - ☕ Aprofundando meus conhecimentos em **Java** e Programação Orientada a Objetos
 - 🔭 Construindo projetos práticos para fixar o que estudo em sala
 - 🎯 Em busca de oportunidades como **estagiário / desenvolvedor júnior**
-- 📫 Como me encontrar: **[LinkedIn](#)** · **[E-mail](mailto:seuemail@exemplo.com)**
+- 📫 Como me encontrar: **[LinkedIn](#)** · **[dudu.nantes@gmail.com](mailto:seuemail@exemplo.com)**
 
 <br/>
 
