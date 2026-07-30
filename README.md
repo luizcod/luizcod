@@ -27,7 +27,7 @@
 - ☕ Aprofundando meus conhecimentos em **Java** e Programação Orientada a Objetos
 - 🔭 Construindo projetos práticos para fixar o que estudo em sala
 - 🎯 Em busca de oportunidades como **estagiário / desenvolvedor júnior**
-- 📫 Como me encontrar: **[LinkedIn](#)** · **[dudu.nantes@gmail.com](mailto:seuemail@exemplo.com)**
+- 📫 Como me encontrar: **[LinkedIn](#)** · **[E-mail](mailto:seuemail@exemplo.com)**
 
 <br/>
 
@@ -50,14 +50,15 @@
 **[📚 biblioteca-java](https://github.com/luizcod/biblioteca-java)**
 Sistema de gerenciamento de biblioteca desenvolvido em Java, aplicando conceitos de Programação Orientada a Objetos (classes `Livro`, `Biblioteca` e `Serviço`).
 
+> 💡 Dica: conforme você for terminando novos projetos em Java, adicione mais 2 ou 3 aqui — recrutadores costumam bater o olho justamente nessa seção.
 
 <br/>
 
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=luizcod&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizcod&layout=compact&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=luizcod&show_icons=true&theme=default&hide_border=true&cache_seconds=86400" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizcod&layout=compact&hide_border=true&cache_seconds=86400" />
 </div>
 
 <br/>
