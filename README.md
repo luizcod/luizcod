@@ -1,3 +1,56 @@
+<div align="center">
+
+
+
+# Olá, eu sou o Luiz! 👋
+
+
+
+</div>
+
+
+
+<div align="center">
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%40+UnB;Aprendendo+Java+na+pr%C3%A1tica;Membro+da+CJR+-+Empresa+J%C3%BAnior+de+Computa%C3%A7%C3%A3o;Em+busca+de+novas+oportunidades+%F0%9F%9A%80" alt="Typing SVG" />
+
+</div>
+
+
+
+<br/>
+
+
+
+<div align="center">
+
+  <img src="https://raw.githubusercontent.com/luizcod/luizcod/main/assets/capybara-walking.svg" width="500" alt="capivara passeando" />
+
+</div>
+
+
+
+<br/>
+
+
+
+<div align="center">
+
+  <picture>
+
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luizcod/luizcod/output/github-snake-dark.svg" />
+
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luizcod/luizcod/output/github-snake.svg" />
+
+    <img alt="minhoca comendo o gráfico de contribuições" src="https://raw.githubusercontent.com/luizcod/luizcod/output/github-snake.svg" />
+
+  </picture>
+
+</div>
+
+
+
+<br/>
 ### 🧑‍💻 Sobre mim
 
 <table>
