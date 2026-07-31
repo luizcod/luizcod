@@ -71,10 +71,16 @@ Sistema de gerenciamento de biblioteca desenvolvido em Java, aplicando conceitos
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=luizcod&show_icons=true&theme=default&hide_border=true&title_color=2F81F7&icon_color=c9975c" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizcod&layout=compact&hide_border=true&title_color=2F81F7" />
+  <img height="165" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=luizcod&show_icons=true&theme=default&hide_border=true&title_color=2F81F7&icon_color=c9975c" />
+  <img height="165" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=luizcod&layout=compact&hide_border=true&title_color=2F81F7" />
 </div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=luizcod&hide_border=true&ring=2F81F7&fire=c9975c" />
+</div>
+
+<br/>
+
+<div align="center">
+  <sub>Obrigado pela visita! Sinta-se à vontade para explorar meus repositórios ⭐</sub>
 </div>
