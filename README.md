@@ -76,33 +76,26 @@
 
 </div>
 
-## 📌 Projetos em destaque
+---
 
-<table>
-<tr>
-<td width="50%" valign="top">
+## 📌 Projeto em destaque
+
+<div align="center">
 
 ### 📚 biblioteca-java
 
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=luizcod&repo=biblioteca-java&theme=radical&hide_border=true&bg_color=0D111700&title_color=58A6FF&icon_color=c9975c&text_color=c9d1d9)](https://github.com/luizcod/biblioteca-java)
+[![GitHub Repo stars](https://img.shields.io/github/stars/luizcod/biblioteca-java?style=social)](https://github.com/luizcod/biblioteca-java)
+[![GitHub forks](https://img.shields.io/github/forks/luizcod/biblioteca-java?style=social)](https://github.com/luizcod/biblioteca-java)
+[![GitHub issues](https://img.shields.io/github/issues/luizcod/biblioteca-java)](https://github.com/luizcod/biblioteca-java)
 
-Sistema de gerenciamento de biblioteca desenvolvido em **Java**, aplicando conceitos de **Programação Orientada a Objetos** com as classes:
+**Sistema de gerenciamento de biblioteca** desenvolvido em **Java**, aplicando conceitos de **Programação Orientada a Objetos** com as classes:
 - 📖 `Livro`
 - 🏛️ `Biblioteca` 
 - 🔧 `Serviço`
 
-</td>
-<td width="50%" valign="top">
+➡️ [Ver projeto no GitHub](https://github.com/luizcod/biblioteca-java)
 
-### 🚀 Em breve
-
-[![Em breve](https://github-readme-stats.vercel.app/api/pin/?username=luizcod&repo=&theme=radical&hide_border=true&bg_color=0D111700&title_color=58A6FF&icon_color=c9975c&text_color=c9d1d9)](https://github.com/luizcod)
-
-Novos projetos estão a caminho! Fique ligado para mais novidades em breve.
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
