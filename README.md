@@ -71,28 +71,10 @@ Sistema de gerenciamento de biblioteca desenvolvido em Java, aplicando conceitos
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=luizcod&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2F81F7&icon_color=c9975c&text_color=c9d1d9&cache_seconds=86400" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=luizcod&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=2F81F7&icon_color=c9975c&text_color=24292e&cache_seconds=86400" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=luizcod&show_icons=true&theme=default&hide_border=true&title_color=2F81F7&icon_color=c9975c&cache_seconds=86400" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=luizcod&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2F81F7&text_color=c9d1d9&cache_seconds=86400" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=luizcod&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=2F81F7&cache_seconds=86400" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizcod&layout=compact&hide_border=true&title_color=2F81F7&cache_seconds=86400" />
-  </picture>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=luizcod&show_icons=true&theme=default&hide_border=true&title_color=2F81F7&icon_color=c9975c" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizcod&layout=compact&hide_border=true&title_color=2F81F7" />
 </div>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=luizcod&theme=tokyonight&hide_border=true&background=0D1117&ring=2F81F7&fire=c9975c&currStreakLabel=2F81F7" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=luizcod&theme=default&hide_border=true&background=FFFFFF&ring=2F81F7&fire=c9975c&currStreakLabel=2F81F7" />
-    <img src="https://streak-stats.demolab.com?user=luizcod&hide_border=true&ring=2F81F7&fire=c9975c" />
-  </picture>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=luizcod&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1&column=4" />
+  <img src="https://streak-stats.demolab.com?user=luizcod&hide_border=true&ring=2F81F7&fire=c9975c" />
 </div>
