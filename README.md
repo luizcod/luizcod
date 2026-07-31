@@ -1,7 +1,7 @@
 <div align="center">
   
-<!-- Banner principal com imagem de capivara e gradiente -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Luiz%20Eduardo&fontSize=50&fontAlignY=35&desc=Ciência%20da%20Computação%20%7C%20UnB&descAlignY=55&animation=fadeIn" width="100%"/>
+<!-- Banner principal com gradiente -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Luiz%20Eduardo&fontSize=50&fontAlignY=35&desc=Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o%20%7C%20UnB&descAlignY=55&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -11,8 +11,9 @@
 
 <br/>
 
+<!-- Capivara GIF (URL pública) -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/luizcod/luizcod/main/assets/capybara-walking.svg" width="450" alt="Capivara passeando" />
+  <img src="https://media.tenor.com/Wx9Igr-nWssAAAAi/capybara.gif" width="400" alt="Capivara fofa" />
 </div>
 
 <br/>
@@ -35,11 +36,11 @@
 <table>
 <tr>
 <td width="160" valign="top" align="center">
-  <img src="https://raw.githubusercontent.com/luizcod/luizcod/main/assets/capybara-studying.svg" width="140" alt="Capivara estudando" />
+  <img src="https://media.tenor.com/VbL8MEw3tOkAAAAi/capybara-computer.gif" width="140" alt="Capivara no computador" />
 </td>
 <td valign="top">
 
-### 👋 Prazer, eu sou o Luiz!
+### 👋 Prazer, sou o Luiz!
 
 🎓 **Graduando em Ciência da Computação** pela **Universidade de Brasília (UnB)**  
 💼 **Membro da [CJR — Empresa Júnior de Computação](https://cjr.org.br)**, aplicando conhecimento em projetos reais  
@@ -55,6 +56,9 @@
   </a>
   <a href="mailto:dudu.nantes@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/luizcod" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </div>
 
@@ -77,23 +81,23 @@
 
 <br/>
 
-## 📌 Projeto em destaque
+## 📌 Projetos em destaque
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luizcod&repo=biblioteca-java&theme=radical&hide_border=true&bg_color=0D111700)](https://github.com/luizcod/biblioteca-java)
-
-**📚 biblioteca-java** — Sistema de gerenciamento de biblioteca desenvolvido em Java, aplicando conceitos de **POO** (classes `Livro`, `Biblioteca` e `Serviço`).
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luizcod&repo=biblioteca-java&theme=radical&hide_border=true&bg_color=0D111700&title_color=58A6FF&icon_color=c9975c&text_color=c9d1d9)](https://github.com/luizcod/biblioteca-java)
 
 </div>
+
+**📚 biblioteca-java** — Sistema de gerenciamento de biblioteca em Java com POO (classes `Livro`, `Biblioteca` e `Serviço`).
 
 ---
 
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=luizcod&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D111700&title_color=58A6FF&icon_color=c9975c&text_color=c9d1d9" />
-  <img height="180em" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=luizcod&layout=compact&hide_border=true&bg_color=0D111700&title_color=58A6FF&text_color=c9d1d9" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizcod&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D111700&title_color=58A6FF&icon_color=c9975c&text_color=c9d1d9" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizcod&layout=compact&hide_border=true&bg_color=0D111700&title_color=58A6FF&text_color=c9d1d9" />
 </div>
 
 <div align="center">
@@ -106,6 +110,15 @@
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=luizcod&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="Troféus do GitHub" />
+</div>
+
+---
+
+## 📈 Atividade recente
+
+<!-- Atualizado automaticamente via GitHub Actions -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luizcod&bg_color=0D111700&color=58A6FF&line=2F81F7&point=c9975c&area=true&hide_border=true" alt="Gráfico de atividades" width="90%"/>
 </div>
 
 ---
