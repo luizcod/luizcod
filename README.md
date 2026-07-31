@@ -77,7 +77,6 @@
 </div>
 
 ---
-
 ## 📌 Projeto em destaque
 
 <div align="center">
@@ -86,9 +85,7 @@
 
 </div>
 
-**📚 biblioteca-java** — Sistema de gerenciamento de biblioteca desenvolvido em Java, aplicando conceitos de **Programação Orientada a Objetos** (classes `Livro`, `Biblioteca` e `Serviço`).
-
----
+**📚 biblioteca-java** — Sistema de gerenciamento de biblioteca desenvolvido em **Java**, aplicando conceitos de **Programação Orientada a Objetos** com as classes `Livro`, `Biblioteca` e `Serviço`.
 
 ### 📊 Estatísticas do GitHub
 
