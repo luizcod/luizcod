@@ -71,12 +71,24 @@ Sistema de gerenciamento de biblioteca desenvolvido em Java, aplicando conceitos
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=luizcod&show_icons=true&theme=default&hide_border=true&title_color=2F81F7&icon_color=c9975c" />
-  <img height="165" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=luizcod&layout=compact&hide_border=true&title_color=2F81F7" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=luizcod&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=c9975c&text_color=c9d1d9" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=luizcod&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=2F81F7&icon_color=c9975c&text_color=24292e" />
+    <img height="165" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=luizcod&show_icons=true&hide_border=true&title_color=2F81F7&icon_color=c9975c" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=luizcod&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=luizcod&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=2F81F7" />
+    <img height="165" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=luizcod&layout=compact&hide_border=true&title_color=2F81F7" />
+  </picture>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=luizcod&hide_border=true&ring=2F81F7&fire=c9975c" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=luizcod&hide_border=true&background=0D1117&ring=58A6FF&fire=c9975c&currStreakLabel=58A6FF&stroke=0D1117" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=luizcod&hide_border=true&background=FFFFFF&ring=2F81F7&fire=c9975c&currStreakLabel=2F81F7" />
+    <img src="https://streak-stats.demolab.com?user=luizcod&hide_border=true&ring=2F81F7&fire=c9975c" />
+  </picture>
 </div>
 
 <br/>
