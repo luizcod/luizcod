@@ -1,56 +1,31 @@
 <div align="center">
 
-
-
 # Olá, eu sou o Luiz! 👋
 
-
-
 </div>
 
-
-
 <div align="center">
-
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%40+UnB;Aprendendo+Java+na+pr%C3%A1tica;Membro+da+CJR+-+Empresa+J%C3%BAnior+de+Computa%C3%A7%C3%A3o;Em+busca+de+novas+oportunidades+%F0%9F%9A%80" alt="Typing SVG" />
-
 </div>
-
-
 
 <br/>
 
-
-
 <div align="center">
-
   <img src="https://raw.githubusercontent.com/luizcod/luizcod/main/assets/capybara-walking.svg" width="500" alt="capivara passeando" />
-
 </div>
 
-
-
 <br/>
-
-
 
 <div align="center">
-
   <picture>
-
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luizcod/luizcod/output/github-snake-dark.svg" />
-
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luizcod/luizcod/output/github-snake.svg" />
-
     <img alt="minhoca comendo o gráfico de contribuições" src="https://raw.githubusercontent.com/luizcod/luizcod/output/github-snake.svg" />
-
   </picture>
-
 </div>
 
-
-
 <br/>
+
 ### 🧑‍💻 Sobre mim
 
 <table>
@@ -109,6 +84,13 @@ Sistema de gerenciamento de biblioteca desenvolvido em Java, aplicando conceitos
   <img height="165" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=luizcod&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D111700&title_color=58A6FF&icon_color=c9975c&text_color=c9d1d9" />
   <img height="165" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=luizcod&layout=compact&hide_border=true&bg_color=0D111700&title_color=58A6FF&text_color=c9d1d9" />
 </div>
+
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=luizcod&hide_border=true&background=0D111700&theme=tokyonight&sideNums=c9d1d9&dates=c9d1d9" />
+</div>
+
+<br/>
+
+<div align="center">
+  <sub>Obrigado pela visita! Sinta-se à vontade para explorar meus repositórios ⭐</sub>
 </div>
