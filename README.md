@@ -114,7 +114,7 @@
 ## 👀 Visitas no perfil
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/luizcod/count.svg" alt="Contador de visitas" />
+  <img src="https://count.getlazy.co.uk/visit.svg?id=luizcod" alt="Contador de visitas" />
 </div>
 
 <br/>
