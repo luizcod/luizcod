@@ -76,51 +76,41 @@
 
 </div>
 
-## 📌 Projetos em destaque
+---
 
-<table>
-<tr>
-<td width="50%" valign="top">
+## 📌 Projeto em destaque
+
+<div align="center">
 
 ### 📚 biblioteca-java
 
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=luizcod&repo=biblioteca-java&theme=radical&hide_border=true&bg_color=0D111700&title_color=58A6FF&icon_color=c9975c&text_color=c9d1d9)](https://github.com/luizcod/biblioteca-java)
+[![GitHub Repo stars](https://img.shields.io/github/stars/luizcod/biblioteca-java?style=social)](https://github.com/luizcod/biblioteca-java)
+[![GitHub forks](https://img.shields.io/github/forks/luizcod/biblioteca-java?style=social)](https://github.com/luizcod/biblioteca-java)
+[![GitHub issues](https://img.shields.io/github/issues/luizcod/biblioteca-java)](https://github.com/luizcod/biblioteca-java)
 
-Sistema de gerenciamento de biblioteca desenvolvido em **Java**, aplicando conceitos de **Programação Orientada a Objetos** com as classes:
+**Sistema de gerenciamento de biblioteca** desenvolvido em **Java**, aplicando conceitos de **Programação Orientada a Objetos** com as classes:
 - 📖 `Livro`
 - 🏛️ `Biblioteca` 
 - 🔧 `Serviço`
 
-</td>
-<td width="50%" valign="top">
+➡️ [Ver projeto no GitHub](https://github.com/luizcod/biblioteca-java)
 
-### 🚀 Em breve
-
-[![Em breve](https://github-readme-stats.vercel.app/api/pin/?username=luizcod&repo=&theme=radical&hide_border=true&bg_color=0D111700&title_color=58A6FF&icon_color=c9975c&text_color=c9d1d9)](https://github.com/luizcod)
-
-Novos projetos estão a caminho! Fique ligado para mais novidades em breve.
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-
-### 📊 Estatísticas do GitHub
+## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=luizcod&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D111700&title_color=58A6FF&icon_color=c9975c&text_color=c9d1d9" />
-  <img height="165" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=luizcod&layout=compact&hide_border=true&bg_color=0D111700&title_color=58A6FF&text_color=c9d1d9" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizcod&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D111700&title_color=58A6FF&icon_color=c9975c&text_color=c9d1d9" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizcod&layout=compact&hide_border=true&bg_color=0D111700&title_color=58A6FF&text_color=c9d1d9" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=luizcod&hide_border=true&background=0D111700&theme=tokyonight&sideNums=c9d1d9&dates=c9d1d9" />
+  <img src="https://streak-stats.demolab.com?user=luizcod&hide_border=true&background=0D111700&theme=tokyonight&sideNums=c9d1d9&dates=c9d1d9" alt="GitHub Streak" />
 </div>
 
-<br/>
-
-<div align="center">
+---
 
 ## 📈 Atividade recente
 
@@ -133,8 +123,9 @@ Novos projetos estão a caminho! Fique ligado para mais novidades em breve.
 ## 👀 Visitas no perfil
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=luizcod.luizcod" alt="Contador de visitas" />
+  <img src="https://profile-counter.glitch.me/luizcod/count.svg" alt="Contador de visitas" />
 </div>
+
 <br/>
 
 <div align="center">
