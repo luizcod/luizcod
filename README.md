@@ -75,5 +75,5 @@ Sistema de gerenciamento de biblioteca desenvolvido em Java, aplicando conceitos
   <img height="165" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=luizcod&layout=compact&hide_border=true&bg_color=0D111700&title_color=58A6FF&text_color=c9d1d9" />
 </div>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=luizcod&hide_border=true&background=0D111700&ring=58A6FF&fire=c9975c&currStreakLabel=58A6FF&stroke=0D111700&sideNums=c9d1d9&dates=c9d1d9&text=00FF00" />
+  <img src="https://streak-stats.demolab.com?user=luizcod&hide_border=true&background=0D111700&ring=58A6FF&fire=c9975c&currStreakLabel=58A6FF&stroke=0D111700&sideNums=c9d1d9&dates=c9d1d9&text=88e788" />
 </div>
