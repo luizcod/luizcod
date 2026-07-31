@@ -90,18 +90,20 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
+### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizcod&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D111700&title_color=58A6FF&icon_color=c9975c&text_color=c9d1d9" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizcod&layout=compact&hide_border=true&bg_color=0D111700&title_color=58A6FF&text_color=c9d1d9" />
+  <img height="165" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=luizcod&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D111700&title_color=58A6FF&icon_color=c9975c&text_color=c9d1d9" />
+  <img height="165" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=luizcod&layout=compact&hide_border=true&bg_color=0D111700&title_color=58A6FF&text_color=c9d1d9" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=luizcod&hide_border=true&background=0D111700&theme=tokyonight&sideNums=c9d1d9&dates=c9d1d9" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=luizcod&hide_border=true&background=0D111700&theme=tokyonight&sideNums=c9d1d9&dates=c9d1d9" />
 </div>
 
----
+<br/>
+
+<div align="center">
 
 ## 📈 Atividade recente
 
