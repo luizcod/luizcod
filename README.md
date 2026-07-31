@@ -103,14 +103,6 @@
 
 ---
 
-## 🏆 Troféus
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=luizcod&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="Troféus do GitHub" />
-</div>
-
----
-
 ## 📈 Atividade recente
 
 <div align="center">
