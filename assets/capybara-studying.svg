@@ -1,0 +1,64 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .headgrp {
+      animation: bob 1.6s ease-in-out infinite alternate;
+      transform-box: fill-box;
+      transform-origin: 50% 100%;
+    }
+    @keyframes bob { 0% { transform: rotate(-6deg); } 100% { transform: rotate(6deg); } }
+
+    .note {
+      animation: floatNote 1.6s ease-in-out infinite;
+    }
+    @keyframes floatNote {
+      0%   { transform: translateY(0px); opacity: 0.9; }
+      50%  { transform: translateY(-10px); opacity: 0.25; }
+      100% { transform: translateY(0px); opacity: 0.9; }
+    }
+
+    .page {
+      animation: pageFlip 3.2s ease-in-out infinite;
+      transform-box: fill-box;
+      transform-origin: 100% 50%;
+    }
+    @keyframes pageFlip {
+      0%, 75% { transform: scaleX(1); }
+      85%     { transform: scaleX(0.15); }
+      95%, 100% { transform: scaleX(1); }
+    }
+  </style>
+
+  <ellipse cx="100" cy="188" rx="72" ry="26" fill="#9c6b3f"/>
+
+  <g class="page">
+    <rect x="55" y="152" width="50" height="34" rx="4" fill="#f2e8d5" stroke="#c9975c" stroke-width="2"/>
+    <line x1="80" y1="152" x2="80" y2="186" stroke="#c9975c" stroke-width="2"/>
+    <line x1="62" y1="162" x2="76" y2="162" stroke="#c9975c" stroke-width="1.5"/>
+    <line x1="62" y1="170" x2="76" y2="170" stroke="#c9975c" stroke-width="1.5"/>
+    <line x1="84" y1="162" x2="98" y2="162" stroke="#c9975c" stroke-width="1.5"/>
+    <line x1="84" y1="170" x2="98" y2="170" stroke="#c9975c" stroke-width="1.5"/>
+  </g>
+
+  <g class="headgrp">
+    <ellipse cx="100" cy="120" rx="46" ry="40" fill="#a97a4a"/>
+    <ellipse cx="100" cy="140" rx="22" ry="16" fill="#c9975c"/>
+    <ellipse cx="93" cy="142" rx="2.6" ry="2.1" fill="#3b2416"/>
+    <ellipse cx="107" cy="142" rx="2.6" ry="2.1" fill="#3b2416"/>
+
+    <path d="M74 110 q7 -9 13 0" stroke="#2b1b12" stroke-width="2.6" fill="none" stroke-linecap="round"/>
+    <path d="M113 110 q7 -9 13 0" stroke="#2b1b12" stroke-width="2.6" fill="none" stroke-linecap="round"/>
+
+    <ellipse cx="63" cy="88" rx="10" ry="9" fill="#7a5330"/>
+    <ellipse cx="137" cy="88" rx="10" ry="9" fill="#7a5330"/>
+    <ellipse cx="63" cy="88" rx="5" ry="4.3" fill="#c9975c"/>
+    <ellipse cx="137" cy="88" rx="5" ry="4.3" fill="#c9975c"/>
+
+    <path d="M58 82 Q100 40 142 82" stroke="#2f6690" stroke-width="7" fill="none" stroke-linecap="round"/>
+    <circle cx="56" cy="93" r="13" fill="#2f6690"/>
+    <circle cx="144" cy="93" r="13" fill="#2f6690"/>
+    <circle cx="56" cy="93" r="6.5" fill="#6fb2df"/>
+    <circle cx="144" cy="93" r="6.5" fill="#6fb2df"/>
+  </g>
+
+  <text class="note" x="148" y="55" font-size="26" fill="#2f6690" font-family="Arial, sans-serif">&#9835;</text>
+</svg>
