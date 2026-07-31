@@ -76,5 +76,5 @@ Sistema de gerenciamento de biblioteca desenvolvido em Java, aplicando conceitos
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=luizcod&hide_border=true&background=0D111700&ring=58A6FF&fire=c9975c&currStreakLabel=58A6FF&stroke=0D111700&sideNums=c9d1d9&dates=c9d1d9" />
+  <img src="https://streak-stats.demolab.com?user=luizcod&hide_border=true&background=0D111700&ring=58A6FF&fire=c9975c&currStreakLabel=58A6FF&stroke=0D111700&sideNums=c9d1d9&dates=c9d1d9&numText=c9975c" />
 </div>
