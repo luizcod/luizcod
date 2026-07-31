@@ -116,9 +116,8 @@
 ## 👀 Visitas no perfil
 
 <div align="center">
-  <img src="https://count.getlazy.co.uk/visit.svg?id=luizcod" alt="Contador de visitas" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=luizcod.luizcod" alt="Contador de visitas" />
 </div>
-
 <br/>
 
 <div align="center">
