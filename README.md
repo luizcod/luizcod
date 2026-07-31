@@ -1,5 +1,3 @@
-<div align="center">
-
 # Olá, eu sou o Luiz! 👋
 
 </div>
@@ -10,9 +8,8 @@
 
 <br/>
 
-<!-- Banner SVG animado -->
 <div align="center">
-  <img src="capybara-coding-banner.svg" width="100%" alt="Capivara codando banner" />
+  <img src="https://raw.githubusercontent.com/luizcod/luizcod/main/assets/capybara-walking.svg" width="500" alt="capivara passeando" />
 </div>
 
 <br/>
