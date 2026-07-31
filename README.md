@@ -11,6 +11,12 @@
 <br/>
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/luizcod/luizcod/main/assets/capybara-walking.svg" width="500" alt="capivara passeando" />
+</div>
+
+<br/>
+
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luizcod/luizcod/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luizcod/luizcod/output/github-snake.svg" />
@@ -22,12 +28,23 @@
 
 ### 🧑‍💻 Sobre mim
 
+<table>
+<tr>
+<td width="140" valign="top" align="center">
+  <img src="https://raw.githubusercontent.com/luizcod/luizcod/main/assets/capybara-studying.svg" width="120" alt="capivara estudando" />
+</td>
+<td valign="top">
+
 - 🎓 Graduando em **Ciência da Computação** pela **Universidade de Brasília (UnB)**
 - 💼 Membro da **[CJR — Empresa Júnior de Computação](https://cjr.org.br)**, empresa júnior do curso de Computação da UnB
 - ☕ Aprofundando meus conhecimentos em **Java** e Programação Orientada a Objetos
 - 🔭 Construindo projetos práticos para fixar o que estudo em sala
 - 🎯 Em busca de oportunidades como **estagiário / desenvolvedor júnior**
-- 📫 Como me encontrar: **[https://www.linkedin.com/in/luiz-eduardo-nantes-602643350/](#)** · **[dudu.nantes@gmail.com](mailto:seuemail@exemplo.com)**
+- 📫 Como me encontrar: **[LinkedIn](https://www.linkedin.com/in/luiz-eduardo-nantes-602643350/)** · **[dudu.nantes@gmail.com](mailto:dudu.nantes@gmail.com)**
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -48,9 +65,8 @@
 ### 📌 Projeto em destaque
 
 **[📚 biblioteca-java](https://github.com/luizcod/biblioteca-java)**
+
 Sistema de gerenciamento de biblioteca desenvolvido em Java, aplicando conceitos de Programação Orientada a Objetos (classes `Livro`, `Biblioteca` e `Serviço`).
-
-
 
 ### 📊 Estatísticas do GitHub
 
